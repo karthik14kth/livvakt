@@ -1,2 +1,2 @@
 # livvakt
-This repository is the birth place of livvakt, a non living body guard
+This repository is the place for my own files and not for public viewing
